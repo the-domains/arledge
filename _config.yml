@@ -1,4 +1,3 @@
-layout_spectrum: 0.9242823314853013
 typography_spectrum: 0.8408979396335781
 color:
   brandStrength: 0.6200940192211419
@@ -11,4 +10,9 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.9242823314853013
+author:
+  name: Arledge Armenaki
+  email: arledge@gmail.com
 name: ARLEDGE
+title: Director of Photography
