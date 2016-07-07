@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Director of Photography]]></title>
         <description><![CDATA[Director of Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arledge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 12:46:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 12:49:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arledge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SICW Trailer]]></title>
+            <description><![CDATA[<article><h1>SICW Trailer</h1><p>Surrendering in a Champion's World - a provocative piece of dance theater that Trish Casey recently choreographed for students at the N.C. School of the Arts - is back in film form, and it is definitely worth a second look.</p></article>]]></description>
+            <link>https://vimeo.com/159532615</link>
+            <guid isPermaLink="false">ea3c6546-8a35-46b7-a4cd-a794a9251981</guid>
+            <pubDate>Thu, 07 Jul 2016 12:49:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WELCOME - Pastor Rick Holmes]]></title>
             <description><![CDATA[<article><h1>WELCOME - Pastor Rick Holmes</h1><p>https://vimeo.com/171210455</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/008ca3d6-6610-4e0e-a6d6-aab1f9727f68.png"></article>]]></description>
