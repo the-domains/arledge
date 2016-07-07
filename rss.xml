@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Director of Photography]]></title>
+        <description><![CDATA[Director of Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 12:46:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WELCOME - Pastor Rick Holmes]]></title>
+            <description><![CDATA[<article><h1>WELCOME - Pastor Rick Holmes</h1><p>https://vimeo.com/171210455</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/008ca3d6-6610-4e0e-a6d6-aab1f9727f68.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/008ca3d6-6610-4e0e-a6d6-aab1f9727f68.png</link>
+            <guid isPermaLink="false">277dcc2d-8c04-4a00-a6e3-c2e054e73905</guid>
+            <pubDate>Thu, 07 Jul 2016 12:46:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
